@@ -9,7 +9,7 @@ params={
     'dec_dropout_in': 0.5,
     'dec_dropout_out': 0.5,
     'batch_size': 32,
-    'epochs': 100,
+    'epochs': 5,
     'test_nepoch': 5,
     'train_data': 'datasets/yahoo_data/yahoo.train.txt',
     'val_data': 'datasets/yahoo_data/yahoo.valid.txt',
